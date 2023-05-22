@@ -27,7 +27,7 @@ export default function Home() {
           padding: (theme) => theme.spacing(3, 2),
         }}
       >
-        <Typography variant="h5">Test2 the AI Pet Studio Store!</Typography>
+        <Typography variant="h5">Test Push the AI Pet Studio Store!</Typography>
         <br />
         <Typography variant="body1">
           Take a look at our wide variety of products.
